@@ -6,6 +6,7 @@ public class Inheritence extends Learning {
 	public	String b = " I'm line two";
 	public 	String connect = s + b;
 	public  String  new_line_for_git = "For New change";
+	public  String  new_variable_for_git = "For Secong change";
 	
 	private void SigIn_Private() {
 		System.out.println("i'm Private Method from Inheritence Class");
